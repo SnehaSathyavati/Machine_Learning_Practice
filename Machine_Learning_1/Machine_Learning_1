@@ -1,1 +1,42 @@
-adsc
+
+## 📌 Overview  
+This repository is a **comprehensive collection of Machine Learning (ML) concepts and algorithms**, covering the fundamentals up to **K-Means Clustering**. The goal is to provide a structured learning path for beginners and practitioners looking to strengthen their ML foundation.  
+
+## 📂 Repository Contents  
+The repository includes Jupyter Notebooks explaining **each ML concept with theoretical insights and Python implementations** using real-world datasets.  
+
+### **1️⃣ Introduction to Machine Learning**  
+- What is Machine Learning?  
+- Types of ML: **Supervised vs. Unsupervised Learning**  
+- Overview of the ML Pipeline (Data Preprocessing → Model Building → Evaluation)  
+- Key Libraries: **Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn**  
+
+### **2️⃣ Data Preprocessing & Feature Engineering**  
+- Handling **Missing Data** (Imputation techniques)  
+- **Feature Scaling** (Normalization vs. Standardization)  
+- **Encoding Categorical Variables** (One-Hot, Label Encoding)  
+- **Feature Selection** & Dimensionality Reduction  
+
+### **3️⃣ Supervised Learning Algorithms**  
+#### **🔹 Regression Models**  
+- **Linear Regression** (Simple & Multiple Regression)  
+- **Polynomial Regression**  
+- **Ridge & Lasso Regression** (Regularization techniques)  
+- Model Performance Metrics: **MAE, MSE, RMSE, R² Score**  
+
+#### **🔹 Classification Models**  
+- **Logistic Regression** (Binary & Multi-Class Classification)  
+- **Decision Trees** (Entropy, Gini Index)  
+- **Random Forest Classifier** (Ensemble Learning)  
+- **Support Vector Machine (SVM)** (Linear & Kernel-based)  
+- Model Evaluation Metrics: **Accuracy, Precision, Recall, F1-score, AUC-ROC**  
+
+### **4️⃣ Unsupervised Learning Algorithms**  
+#### **🔹 Clustering Techniques**  
+- **K-Means Clustering** (Elbow Method, Silhouette Score)  
+- Introduction to **Hierarchical Clustering** (Agglomerative & Divisive)  
+
+## 🛠️ Technologies Used  
+- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)  
+- **Jupyter Notebook**  
+- **ML Algorithms from Scikit-learn**  
