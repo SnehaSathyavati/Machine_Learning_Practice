@@ -29,7 +29,7 @@ The repository includes Jupyter Notebooks explaining **each ML concept with theo
 - **Decision Trees** (Entropy, Gini Index)  
 - **Random Forest Classifier** (Ensemble Learning)  
 - **Support Vector Machine (SVM)** (Linear & Kernel-based)  
-- Model Evaluation Metrics: **Accuracy, Precision, Recall, F1-score**  
+- Model Evaluation Metrics: **Accuracy, Precision, Recall, F1-score, AUC-ROC**  
 
 ### **4️⃣ Unsupervised Learning Algorithms**  
 #### **🔹 Clustering Techniques**  
