@@ -1,1 +1,13 @@
-sasv
+#### ** Classification Models**  
+- **Logistic Regression** (Binary & Multi-Class)  
+- **Naïve Bayes Classifier**  
+  - **Gaussian Naïve Bayes** – Used for normally distributed data.  
+  - **Multinomial Naïve Bayes** – Used for text classification & NLP.  
+  - **Bernoulli Naïve Bayes** – Used for binary feature datasets.  
+- **Decision Trees** (Entropy, Gini Index, Pruning Techniques)  
+- **Random Forest Classifier** (Ensemble Learning)  
+- **Support Vector Machine (SVM)** (Linear & Kernel-based)  
+- Model Evaluation Metrics: **Accuracy, Precision, Recall, F1-score, AUC-ROC, Confusion Matrix**  
+
+### ** Feature Selection & Model Optimization**  
+- **L1 Regularization (Lasso Regression) for Feature Selection**  
